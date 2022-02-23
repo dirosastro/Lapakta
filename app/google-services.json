@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "622612085349",
+    "firebase_url": "https://ornids-cd6fd-default-rtdb.firebaseio.com",
+    "project_id": "ornids-cd6fd",
+    "storage_bucket": "ornids-cd6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622612085349:android:f32a010415898db9ba248c",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.ornids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622612085349-fqve80tjmig33202o9lads79hr69g3hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ourdevelops.ornids",
+            "certificate_hash": "d7a7c118fdfd1bd6dfcf5e030e260b6bc27a220a"
+          }
+        },
+        {
+          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622612085349:android:2619e38b70aff00dba248c",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.ornidsdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622612085349:android:4ba6678a66783e32ba248c",
+        "android_client_info": {
+          "package_name": "com.ourdevelops.ornidsmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
