@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Ornids</string>
+    <string name="app_name">Lapakta</string>
     <string name="mapbox_access_token">sk.eyJ1Ijoic2FtYXJrYXRvbmRldiIsImEiOiJja3prZmtsZW8wNzVyMm9tbmZpODEwNnJoIn0.cT9oel5fnXL8ZjkFlusM8g</string>
-
+    <string name="firebase_db">https://samarkaton-lapakta-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
     ////////
     <string name="introtext1">Sign up now!</string>
     <string name="introdesc1">Where did you go today? we will be ready to drive anywhere and anytime</string>

@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "622612085349",
-    "firebase_url": "https://ornids-cd6fd-default-rtdb.firebaseio.com",
-    "project_id": "ornids-cd6fd",
-    "storage_bucket": "ornids-cd6fd.appspot.com"
+    "project_number": "876590852202",
+    "firebase_url": "https://samarkaton-lapakta-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "samarkaton-lapakta",
+    "storage_bucket": "samarkaton-lapakta.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:622612085349:android:f32a010415898db9ba248c",
+        "mobilesdk_app_id": "1:876590852202:android:b890fdd66681f290c70213",
         "android_client_info": {
-          "package_name": "com.ourdevelops.ornids"
+          "package_name": "com.samarkaton.lapakta"
         }
       },
       "oauth_client": [
         {
-          "client_id": "622612085349-fqve80tjmig33202o9lads79hr69g3hk.apps.googleusercontent.com",
+          "client_id": "876590852202-8lldojupr85l9np45bj79p3sfj7ibt99.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.ourdevelops.ornids",
-            "certificate_hash": "d7a7c118fdfd1bd6dfcf5e030e260b6bc27a220a"
+            "package_name": "com.samarkaton.lapakta",
+            "certificate_hash": "01d84a62463580acd9cd19c591c6e8de9d2e33a3"
           }
         },
         {
-          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+          "current_key": "AIzaSyDvoiC5qYHphO1WOii6H0BFgy3_k0uGd2Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,27 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:622612085349:android:2619e38b70aff00dba248c",
+        "mobilesdk_app_id": "1:876590852202:android:df6a18949007920cc70213",
         "android_client_info": {
-          "package_name": "com.ourdevelops.ornidsdriver"
+          "package_name": "com.samarkaton.lapaktadriver"
         }
       },
       "oauth_client": [
         {
-          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_id": "876590852202-kude30bcrr0p3eij6j9uskls7qbq73p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarkaton.lapaktadriver",
+            "certificate_hash": "01d84a62463580acd9cd19c591c6e8de9d2e33a3"
+          }
+        },
+        {
+          "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+          "current_key": "AIzaSyDvoiC5qYHphO1WOii6H0BFgy3_k0uGd2Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -74,27 +82,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:622612085349:android:4ba6678a66783e32ba248c",
+        "mobilesdk_app_id": "1:876590852202:android:07f70aa66b773ab5c70213",
         "android_client_info": {
-          "package_name": "com.ourdevelops.ornidsmerchant"
+          "package_name": "com.samarkaton.lapaktamerchant"
         }
       },
       "oauth_client": [
         {
-          "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+          "client_id": "876590852202-p74i6j32qduk0669644uqro9m0frbt94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarkaton.lapaktamerchant",
+            "certificate_hash": "01d84a62463580acd9cd19c591c6e8de9d2e33a3"
+          }
+        },
+        {
+          "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDL2oHpC5-fZ6npkSyoGFxKu5Cm2B5uY_4"
+          "current_key": "AIzaSyDvoiC5qYHphO1WOii6H0BFgy3_k0uGd2Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "622612085349-kp907jp9b0hm5mevft577945br7gh1ef.apps.googleusercontent.com",
+              "client_id": "876590852202-svaihpqde350695k3pj07u8683supunq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

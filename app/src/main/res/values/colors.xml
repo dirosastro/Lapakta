@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#02AC43</color>
+    <color name="colorPrimary">#01579B</color>
     <color name="colorgradient">#28BF62</color>
     <color name="colorgradienttransparent">#A34CAF50</color>
     <color name="coloraccent">@color/colorPrimary</color>
